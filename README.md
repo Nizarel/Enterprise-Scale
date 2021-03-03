@@ -1,4 +1,4 @@
-# Enterprise-Scale - Reference Implementation
+# Enterprise-Scale - MKP Corp Reference Implementation
 
 ## Navigation Menu
 
